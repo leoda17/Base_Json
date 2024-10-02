@@ -1,0 +1,54 @@
+{
+  "esportes": [
+    {
+      "nome": "Futebol",
+      "votos": 500000,
+      "porcentagem": 40
+    },
+    {
+      "nome": "Voleibol",
+      "votos": 300000,
+      "porcentagem": 25
+    },
+    {
+      "nome": "Basquete",
+      "votos": 150000,
+      "porcentagem": 12
+    },
+    {
+      "nome": "Corrida",
+      "votos": 100000,
+      "porcentagem": 8
+    },
+    {
+      "nome": "Natação",
+      "votos": 50000,
+      "porcentagem": 4
+    },
+    {
+      "nome": "Ciclismo",
+      "votos": 20000,
+      "porcentagem": 2
+    },
+    {
+      "nome": "Tênis",
+      "votos": 10000,
+      "porcentagem": 1
+    },
+    {
+      "nome": "Handebol",
+      "votos": 5000,
+      "porcentagem": 0.5
+    },
+    {
+      "nome": "Rugby",
+      "votos": 3000,
+      "porcentagem": 0.3
+    },
+    {
+      "nome": "Atletismo",
+      "votos": 1000,
+      "porcentagem": 0.1
+    }
+  ]
+}
