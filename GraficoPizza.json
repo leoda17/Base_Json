@@ -1,0 +1,10 @@
+{
+  "Futebol": 40,
+  "Voleibol": 30,
+  "Basquete": 15,
+  "Natação": 10,
+  "Corrida": 3,
+  "Tênis": 1,
+  "Ciclismo": 0.2,
+  "Handebol": 0.1
+}
