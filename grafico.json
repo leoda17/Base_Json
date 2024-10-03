@@ -1,7 +1,14 @@
 {
-    "Futebol": 40,
-    "Vôlei": 24,
-    "Basquete": 16,
-    "Natação": 12,
-    "Ciclismo": 8
+    "Futebol": 50,
+    "Vôlei": 30,
+    "Basquete": 20,
+    "Natação": 15,
+    "Ciclismo": 10,
+    "Tênis": 12,
+    "Handebol": 8,
+    "Rugby": 7,
+    "Futebol Americano": 5,
+    "Paddle": 6,
+    "Atletismo": 9,
+    "Golf": 4
 }
