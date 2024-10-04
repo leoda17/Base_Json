@@ -47,20 +47,3 @@
         "numeroDePessoas": 400,
         "porcentagem": 3
     },
-    "Karate": {
-        "numeroDePessoas": 300,
-        "porcentagem": 2
-    },
-    "Boxe": {
-        "numeroDePessoas": 350,
-        "porcentagem": 3
-    },
-    "Skate": {
-        "numeroDePessoas": 250,
-        "porcentagem": 2
-    },
-    "Patinação Artística": {
-        "numeroDePessoas": 200,
-        "porcentagem": 1
-    }
-}
