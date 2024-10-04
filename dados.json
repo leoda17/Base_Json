@@ -18,5 +18,49 @@
     "Ciclismo": {
         "numeroDePessoas": 1000,
         "porcentagem": 8
+    },
+    "Tênis": {
+        "numeroDePessoas": 1200,
+        "porcentagem": 9
+    },
+    "Handebol": {
+        "numeroDePessoas": 800,
+        "porcentagem": 6
+    },
+    "Rugby": {
+        "numeroDePessoas": 700,
+        "porcentagem": 5
+    },
+    "Futebol Americano": {
+        "numeroDePessoas": 600,
+        "porcentagem": 4
+    },
+    "Paddle": {
+        "numeroDePessoas": 500,
+        "porcentagem": 3
+    },
+    "Atletismo": {
+        "numeroDePessoas": 900,
+        "porcentagem": 7
+    },
+    "Golf": {
+        "numeroDePessoas": 400,
+        "porcentagem": 3
+    },
+    "Karate": {
+        "numeroDePessoas": 300,
+        "porcentagem": 2
+    },
+    "Boxe": {
+        "numeroDePessoas": 350,
+        "porcentagem": 3
+    },
+    "Skate": {
+        "numeroDePessoas": 250,
+        "porcentagem": 2
+    },
+    "Patinação Artística": {
+        "numeroDePessoas": 200,
+        "porcentagem": 1
     }
 }
