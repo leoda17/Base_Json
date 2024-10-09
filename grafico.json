@@ -1,10 +1,30 @@
-{
-    "Futebol": 30,
-    "Vôlei": 15,
-    "Basquete": 10,
-    "Natação": 10,
-    "Corrida": 20,
-    "Ciclismo": 5,
-    "Tênis": 5,
-    "Handebol": 5
-}
+[
+    {
+        "esporte": "Futebol",
+        "praticantes": 270000000
+    },
+    {
+        "esporte": "Basquete",
+        "praticantes": 45000000
+    },
+    {
+        "esporte": "Natação",
+        "praticantes": 25000000
+    },
+    {
+        "esporte": "Ciclismo",
+        "praticantes": 15000000
+    },
+    {
+        "esporte": "Vôlei",
+        "praticantes": 18000000
+    },
+    {
+        "esporte": "Tênis",
+        "praticantes": 20000000
+    },
+    {
+        "esporte": "Corrida",
+        "praticantes": 40000000
+    }
+]
